@@ -11,7 +11,7 @@
 	<h2>Spring MVC Demo - Home page</h2>
 
 	<hr>
-	<a href="showForm">Hello World FORM </a>
+	<a href="hello/showForm">Hello World FORM </a>
 
 
 	<img
@@ -21,5 +21,10 @@
 	<br>
 
 	<input type="button" onclick="doSomeWork()" value="Click Me" />
+	
+	<br>
+	<br>
+	<a href="student/showForm">Student FORM </a>
+	
 </body>
 </html>
